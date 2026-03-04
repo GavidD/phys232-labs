@@ -9,7 +9,6 @@ This repository contains my lab work for **PHYS 232** at UBC Okanagan, including
 - `Brownian_Motion/` – Brownian motion experiment notebooks, tracking data, and analysis.
 - `Stirling Engine/` – Stirling engine thermodynamics lab notebooks and results.
 - `Thermal-Waves/` – Thermal wave propagation lab materials.
-- `Fake Data/` – Practice/sandbox notebooks that use synthetic data sets.
 - `PHYS231.py` – Shared helper functions for numerical work and plotting used across multiple labs.
 - `.ipynb_checkpoints/` – Auto-generated Jupyter checkpoint files.
 
